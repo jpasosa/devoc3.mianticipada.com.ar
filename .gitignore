@@ -1,8 +1,12 @@
 .htaccess
 /config.php
-admin/config.php
+/config.php.remote
+admin/config.php.remote
 
 !index.html
+
+#config ftp para sublime
+sftp-config.json
 
 download/
 image/data/
