@@ -1,6 +1,7 @@
 .htaccess
 /config.php
 /config.php.remote
+admin/config.php
 admin/config.php.remote
 
 !index.html
