@@ -12,6 +12,7 @@ sftp-config.json
 download/
 image/data/
 image/cache/
+image/catalog/
 system/cache/
 system/logs/
 
